@@ -8,7 +8,7 @@ ReviewNinja - merge with confidence
 ============
 
 <p align="center">
-[![ReviewNinja](https://raw.githubusercontent.com/reviewninja/review.ninja/master/src/client/assets/images/review-ninja-250.png)](http://review.ninja)
+[![ReviewNinja](https://raw.githubusercontent.com/reviewninja/review.ninja/master/src/client/assets/images/review-ninja-250.png)](http://review.ninja) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/review.ninja.svg)](https://www.guardrails.io)
 
 ReviewNinja is a lightweight code review tool that works with GitHub, providing
 a more structured way to use pull requests for code review. ReviewNinja
